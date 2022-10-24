@@ -1,0 +1,17 @@
+{
+  "name": "custom_module",
+  "version": "1.0.0",
+  "description": "custom module for final",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jonathan Santos",
+  "license": "ISC",
+  "dependencies": {
+    "superagent": "^7.1.3"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
